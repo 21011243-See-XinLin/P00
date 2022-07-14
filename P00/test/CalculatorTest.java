@@ -9,7 +9,6 @@ import org.junit.Test;
 public class CalculatorTest {
 	int a, b, c;
 	Calculator cal;
-
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
 	}
